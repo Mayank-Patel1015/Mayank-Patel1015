@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 📫 Reach me at mayankp1098@gmail.com
 
-[QRdocent](www.qrdocent.com)
+[QRdocent](https://qrdocent.com)
+
 [QR repo (currently private)](https://github.com/Mayank-Patel1/QRdocent)
