@@ -8,3 +8,7 @@
 
 
 [QR repo (currently private)](https://github.com/Mayank-Patel1/QRdocent)
+
+
+[Astral Teleportation condensed demo](https://www.youtube.com/watch?v=Hr7Pnbv595s)
+[Astral Teleportation final demo](https://www.youtube.com/watch?v=DgBarvqyTmk)
